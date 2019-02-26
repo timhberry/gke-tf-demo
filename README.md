@@ -10,3 +10,5 @@ https://medium.com/@timhberry/learn-terraform-by-deploying-a-google-kubernetes-e
 https://medium.com/@timhberry/deploy-jenkins-to-google-kubernetes-engine-with-helm-60e0a4d7de93
 
 https://medium.com/@timhberry/terraform-pipelines-in-jenkins-47267129ff06
+
+Hi Russ!
